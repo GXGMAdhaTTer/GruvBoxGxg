@@ -1,0 +1,27 @@
+{
+  "name": "gruvboxgxg",
+  "displayName": "GruvBoxGxg",
+  "description": "gxg's gruvbox theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+	"author": "Gxg (https://github.com/GXGMAdhaTTer/GruvBoxGxg)",
+  "icon": "images/icon.jpg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "GruvBoxGxg",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GruvBoxGxg-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GXGMAdhaTTer/GruvBoxGxg.git"
+  }
+}
